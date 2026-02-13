@@ -1,2 +1,2 @@
-# gopher
+# going-gopher
 Learning Go language
